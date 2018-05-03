@@ -1,10 +1,12 @@
 package main
 
-import "fmt"
-import "os"
-import "math/rand"
-import "time"
-import "strconv"
+import ( 
+	"fmt"
+	"os"
+	"math/rand"
+	"time"
+	"strconv"
+)
 
 type Order struct {
 	num int
