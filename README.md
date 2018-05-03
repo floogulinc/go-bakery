@@ -1,6 +1,6 @@
 # go-bakery
 
-To install, clone the repo or run:
+To get the project, clone the repo or run:
 ```
 go get github.com/floogulinc/go-bakery
 ```
